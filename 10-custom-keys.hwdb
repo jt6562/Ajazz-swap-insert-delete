@@ -1,3 +1,4 @@
+#Ajazz AK33 USB Keyboard
 evdev:input:b0003v04D9p0024*
- KEYBOARD_KEY_7004c=110
- KEYBOARD_KEY_70049=111
+ KEYBOARD_KEY_7004c=110 #Delete -> Insert
+ KEYBOARD_KEY_70049=111 #Insert -> Delete
